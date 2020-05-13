@@ -1,37 +1,14 @@
-Welcome to Glitch
-=================
+# Team Edge Lab 11 - 2
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+For this activity, you should work with a partner.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+This website could use some help. It's not that it is ugly, it simply lacks style.
+Think of it as a blank slate for you to try the following:
 
-Find out more [about Glitch](https://glitch.com/about).
+1. Select fonts that work well together. Don't use too many.
+2. Apply your understanding of color theory
+3. Fix the alignment and spacing of the elements. including ine-height and width.
+4. Create more <divs> as needed to wrap elements and apply styles to them.
+5. Use the provided spans as needed.
 
-
-Your Project
-------------
-
-### ← README.md
-
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+Work in the style.css to make these updates.
