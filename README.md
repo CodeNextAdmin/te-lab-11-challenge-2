@@ -10,5 +10,8 @@ Think of it as a blank slate for you to try the following:
 3. Fix the alignment and spacing of the elements. including ine-height and width.
 4. Create more <divs> as needed to wrap elements and apply styles to them.
 5. Use the provided spans as needed.
+6. Add more pictures if needed
+7. Try a new layout 
 
-Work in the style.css to make these updates.
+Work in the style.css to make this page SING!!!
+  
